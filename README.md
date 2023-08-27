@@ -7,7 +7,8 @@
 
 
 - 👨‍💻 All of my projects are available at [http://www.harmiklathiya.epizy.com/](http://www.harmiklathiya.epizy.com/)
-
+- 🌱 I’m currently learning DevOps & Full Stack Development
+- 💬 Ask me about  DevOps & Full Stack Development
 - 📫 How to reach me **lathiyaharmik50@gmail.com**
 
 - ⚡ Fun fact **😅**
