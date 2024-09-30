@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathiya50&label=Profile%20views&color=0e75b6&style=flat" alt="lathiya50" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [http://www.harmiklathiya.epizy.com/](http://www.harmiklathiya.epizy.com/)
+- 👨‍💻 All of my projects are available at [https://harmik.vercel.app](https://harmik.vercel.app)
 - 🌱 I’m currently learning DevOps & Full Stack Development
 - 💬 Ask me about Full Stack Development
 - 📫 How to reach me **lathiyaharmik@gmail.com**
