@@ -7,7 +7,7 @@
 
 
 - 👨‍💻 All of my projects are available at [https://harmik.vercel.app](https://harmik.vercel.app)
-- 🌱 I’m currently learning DevOps & Full Stack Development
+- 🌱 I’m Full Stack Development
 - 💬 Ask me about Full Stack Development
 - 📫 How to reach me **lathiyaharmik@gmail.com**
 
